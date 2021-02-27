@@ -1,5 +1,5 @@
 # Revedia
-Progetto combinato di INGSW e Web Computing
+Progetto combinato di INGSW e Web Computing dei corsi del Dipartimento di Matematica e Informatica dell'Università della Calabria.
 
 Revedia è un sito di recensioni di contenuti musicali, film e libri.
 Il database è molto variegato e contiene dati inseriti dinamicamente grazie alle API di Spotify, TMDB e Google Books.
